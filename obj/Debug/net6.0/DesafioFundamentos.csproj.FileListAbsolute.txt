@@ -1,0 +1,15 @@
+D:\projects\dotnet\Desafio_Estacionamento\bin\Debug\net6.0\DesafioFundamentos.exe
+D:\projects\dotnet\Desafio_Estacionamento\bin\Debug\net6.0\DesafioFundamentos.deps.json
+D:\projects\dotnet\Desafio_Estacionamento\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+D:\projects\dotnet\Desafio_Estacionamento\bin\Debug\net6.0\DesafioFundamentos.dll
+D:\projects\dotnet\Desafio_Estacionamento\bin\Debug\net6.0\DesafioFundamentos.pdb
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.csproj.AssemblyReference.cache
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.dll
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.pdb
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+D:\projects\dotnet\Desafio_Estacionamento\obj\Debug\net6.0\ref\DesafioFundamentos.dll
